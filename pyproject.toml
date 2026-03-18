@@ -5,10 +5,9 @@ description = "实现一下MCP服务"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-	"torch==2.7.0+cu128",
-    "torchvision==0.22.0+cu128",
-    "torchaudio==2.7.0+cu128",
-    "xformers==0.0.30",
+	"fastapi>=0.135.1",
+	"mcp>=1.26.0",
+	"requests>=2.32.5",
 ]
 
 
