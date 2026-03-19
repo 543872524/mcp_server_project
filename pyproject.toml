@@ -34,5 +34,5 @@ explicit = true
 
 [[tool.uv.index]]
 name = "pypi"
-url = "https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
 explicit = false
